@@ -4,20 +4,25 @@
 
 ## Git 에 코드 올리는법
 
-1. Github Clone
+1. Github clone
+
 		git clone https:/https://github.com/DKU-Embedded-Lab/The-Linux-Programming-Interface.git 
 
 2. Branch 생성 (각자 이름 Branch 생성) 
+
 		git checkout -b [Branch name]
 
-3. 작성한 소스코드 Add
+3. 작성한 소스코드 add
+
 		git add [Source code name]
  	
 		해당 디렉토리 전부 add
 		git add *
 
 4. Commit 메세지 작성 ex) git commit -m "First Commit"
+
 		git commit -m "[Commit Message]"
 
-5. github Push
+5. github push
+
 		git push origin [Branch name]
