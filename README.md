@@ -14,6 +14,14 @@
 
 		git checkout -b [Branch name]
 
+	Branch 리스트 확인
+		
+		git branch 
+
+	작업 Branch 변경 
+		
+		git branch [Branch name]
+
 3. 작성한 소스코드 add
 
 		git add [Source code name]
