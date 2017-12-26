@@ -20,7 +20,7 @@
 
 	작업 Branch 변경 
 		
-		git branch [Branch name]
+		git checkout [Branch name]
 
 3. 작성한 소스코드 add
 
